@@ -1,5 +1,17 @@
 # Release History
 
+### 2.2.0 / 2020-09-14
+
+#### Features
+
+* add numeric support ([#6491](https://www.github.com/googleapis/google-cloud-ruby/issues/6491))
+  * spanner: add numeric support.
+  * Add integration tests for Numeric support.
+
+#### Bug Fixes
+
+* retry or resume eos and rst_stream errors ([#7592](https://www.github.com/googleapis/google-cloud-ruby/issues/7592))
+
 ### 2.1.0 / 2020-08-05
 
 #### Features
